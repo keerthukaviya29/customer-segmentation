@@ -1,0 +1,21 @@
+## 📊 Visualizations
+
+### 🔹 Pairplot of Customer Features
+This plot shows relationships between Age, Annual Income, and Spending Score.
+![Pairplot](images/pairplot.png)
+
+### 🔹 Correlation Heatmap
+Displays how strongly the numerical features are related to each other.
+![Heatmap](images/heatmap.png)
+
+### 🔹 Outlier Detection (Boxplots)
+Identifies unusual values in Annual Income and Spending Score.
+![Outliers](images/outliers.png)
+
+### 🔹 Elbow Method
+Used to determine the optimal number of clusters (k) for K-Means.
+![Elbow Method](images/elbow_method.png)
+
+### 🔹 Customer Segments (K-Means Clustering)
+Visualizes the final customer groups based on Annual Income and Spending Score.
+![Customer Clusters](images/customer_clusters.png)
